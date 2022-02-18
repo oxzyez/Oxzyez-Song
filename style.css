@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@500&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: linear-gradient(45deg, #EC4899,#8B5CF6);
+}
+.title {
+    font-family: 'Karla', sans-serif;
+    font-size: 1cm;
+    font-weight: 300;
+    padding-left: 13cm;
+    color: aliceblue;
+    padding-top: 7cm;
+}
+.desc {
+    font-family: 'Karla', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    padding-left: 15cm;
+    color: aliceblue;
+    padding-top: 1cm;
+}
+.footer {
+    padding-top: 6.5cm;
+    display: flex;
+}
+.platform {
+    padding-left: 3cm;
+    margin-right: 9cm;
+    margin-left: 5px;
+}
